@@ -78,8 +78,10 @@
         <div class="row">
             <div class="col-md-4">
                 <h3>Serviço 1</h3>
-                <p>malhação total 1.</p> <source src="videos/abdominal.mp4" type="video/mp4">
-                    Seu navegador não suporta o elemento de vídeo.
+                <p>malhação total 1.</p> <div class="video-container">
+            <video controls>
+                <source src="videos/leg plex.mp4" type="video/mp4">
+                Seu navegador não suporta o elemento de vídeo.</div>
                 </video>
             </div>
             <div class="col-md-4">
