@@ -57,7 +57,7 @@
     <!-- Conteúdo da Página -->
     <div class="container">
         <h1>Bem-vindo à E.S CONTRUÇÃO</h1>
-        <p>Oferecemos uma ampla gama de serviços de construção para atender às suas necessidades. Entre em contato conosco para obter mais informações.</p>
+        <p>Oferecemos uma ampla gama de serviços de construção para atender às suas necessidades. Entre em contato conosco para obter mais informações. <a href="https://wa.me/qr/UEWAIZKBTCXLB1">WHATSAPP</a></p>
         <a href="https://wa.me/qr/UEWAIZKBTCXLB1">WHATSAPP</a>>
         
         <!-- Imagem de cabeçalho -->
