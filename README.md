@@ -58,6 +58,7 @@
     <div class="container">
         <h1>Bem-vindo à E.S CONTRUÇÃO</h1>
         <p>Oferecemos uma ampla gama de serviços de construção para atender às suas necessidades. Entre em contato conosco para obter mais informações.</p>
+        <a href="https://wa.me/qr/UEWAIZKBTCXLB1"whatsapp</a>>
         
         <!-- Imagem de cabeçalho -->
         <img src="imagens/pedriro com muro.jpg" alt="imagem de uma casa " class="img-fluid">
