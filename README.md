@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E.S CONTRUÇÃO</title>
+    <title>E.S CONTRUÇÃO&#x2705 </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <!-- Adicione estilos personalizados aqui -->
+  
+
+  
 
     <style>
         /* Estilos personalizados */
@@ -56,19 +60,19 @@
         <p>Oferecemos uma ampla gama de serviços de construção para atender às suas necessidades. Entre em contato conosco para obter mais informações.</p>
         
         <!-- Imagem de cabeçalho -->
-        <img src="caminho/para/sua/imagem.jpg" alt="Imagem de cabeçalho" class="img-fluid">
+        <img src="imagens/pedriro com muro.jpg" alt="imagem de uma casa " class="img-fluid">
 
         <!-- Frase "Entre em contato" -->
         <div class="video-section">
-            <h2>Entre em contato </h2><a>href="https://wa.me/qr/UEWAIZKBTCXLB1"</a></div>
+            <h2>Entre em contato </h2><a>href="https://wa.me/qr/UEWAIZKBTCXLB1">whats</a></div>
         <!-- Vídeos -->
         <div class="video-container">
             <video controls>
-                <source src="   " type="video/mp4">
+                <source src="" type="video/mp4">
                 Seu navegador não suporta o elemento de vídeo.
             </video>
             <video controls>
-                <source src="     " type="video/mp4">
+                <source src="" type="video/mp4">
                 Seu navegador não suporta o elemento de vídeo.
             </video>
         </div>
@@ -78,19 +82,22 @@
         <div class="row">
             <div class="col-md-4">
                 <h3>Serviço 1</h3>
-                <p>malhação total 1.</p> <div class="video-container">
-            <video controls>
-              
+                <p>malhação total pra cima </p>
+                    <img src="imagens/pedriro com muro.jpg" alt="">
+                    Seu navegador não suporta o elemento de vídeo.
+
             </div>
             <div class="col-md-4">
-                <h3>Serviço 2</h3>
-                <p>Descrição do Serviço 2.</p>
+                <h3>ljdljasklfjkalsjkflaskjflasjlfkjasl</h3>
+                <p>super abdominal</p>
             </div>
             <div class="col-md-4">
                 <h3>Serviço 3</h3>
                 <p>Descrição do Serviço 3.</p>
             </div>
         </div>
+
+
 
         <!-- Depoimentos de Clientes -->
         <h2>Depoimentos</h2>
